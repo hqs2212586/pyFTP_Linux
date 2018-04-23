@@ -3,6 +3,7 @@ __author__ = 'Qiushi Huang'
 
 import os
 import sys
+import platform
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # 将系统目录添加到环境变量
